@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>CTP Blog</title>
-        <link>https://inhactp.github.io/blog</link>
+        <link>https://inhactp.github.io/ctp-homepage/blog</link>
         <description>CTP Blog</description>
         <lastBuildDate>Mon, 06 May 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,13 +10,13 @@
         <language>en</language>
         <item>
             <title><![CDATA[2024 IUPC]]></title>
-            <link>https://inhactp.github.io/blog/2024/05/06/iupc2024</link>
-            <guid>https://inhactp.github.io/blog/2024/05/06/iupc2024</guid>
+            <link>https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024</link>
+            <guid>https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024</guid>
             <pubDate>Mon, 06 May 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[2024 인하대학교 프로그래밍 경진대회(이하 2024 IUPC)에 대한 안내 사항입니다.]]></description>
             <content:encoded><![CDATA[<p><strong>2024 인하대학교 프로그래밍 경진대회(이하 2024 IUPC)에 대한 안내 사항입니다.</strong></p>
 <p><strong>참가를 희망하시는 분들께서는 반드시 모든 내용을 숙독해주시기 바랍니다.</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="대회-일정-및-장소">대회 일정 및 장소<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EB%8C%80%ED%9A%8C-%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%9E%A5%EC%86%8C" class="hash-link" aria-label="Direct link to 대회 일정 및 장소" title="Direct link to 대회 일정 및 장소">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="대회-일정-및-장소">대회 일정 및 장소<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EB%8C%80%ED%9A%8C-%EC%9D%BC%EC%A0%95-%EB%B0%8F-%EC%9E%A5%EC%86%8C" class="hash-link" aria-label="Direct link to 대회 일정 및 장소" title="Direct link to 대회 일정 및 장소">​</a></h2>
 <ul>
 <li>
 <p><strong>대회 일시</strong> : <strong>2024. 05. 18 (토) 13:00 ~ 20:00 (본 대회 14:00 ~ 19:00)</strong></p>
@@ -29,23 +29,23 @@
 <table><thead><tr><th>시간</th><th>진행 내용</th></tr></thead><tbody><tr><td>24. 05. 17</td><td>대회 예비 소집(온라인, 비대면)</td></tr><tr><td>13:00 ~ 13:20</td><td>참가자 등록 및 본인 확인 (신분증 또는 학생증 지참)</td></tr><tr><td>13:20 ~ 14:00</td><td>대회 유의사항 전달 및 후원사 홍보</td></tr><tr><td>14:00 ~ 19:00</td><td>본 대회 진행</td></tr><tr><td>19:00 ~ 20:00</td><td>대회 문제 풀이 및 시상식 진행, 설문 조사, 단체 사진</td></tr></tbody></table>
 </li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="참가-자격">참가 자격<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EC%B0%B8%EA%B0%80-%EC%9E%90%EA%B2%A9" class="hash-link" aria-label="Direct link to 참가 자격" title="Direct link to 참가 자격">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="참가-자격">참가 자격<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EC%B0%B8%EA%B0%80-%EC%9E%90%EA%B2%A9" class="hash-link" aria-label="Direct link to 참가 자격" title="Direct link to 참가 자격">​</a></h2>
 <ul>
 <li><strong>인하대학교 학부과정 재학생 및 휴학생</strong> (재학증명서 및 휴학증명서 발급 가능자)</li>
 <li><strong>2022, 2023년도 IUPC 대상(1위) 및 금상(2,3위) 수상자 참가 불가</strong></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="신청-방법-및-기한">신청 방법 및 기한<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EA%B8%B0%ED%95%9C" class="hash-link" aria-label="Direct link to 신청 방법 및 기한" title="Direct link to 신청 방법 및 기한">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="신청-방법-및-기한">신청 방법 및 기한<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EC%8B%A0%EC%B2%AD-%EB%B0%A9%EB%B2%95-%EB%B0%8F-%EA%B8%B0%ED%95%9C" class="hash-link" aria-label="Direct link to 신청 방법 및 기한" title="Direct link to 신청 방법 및 기한">​</a></h2>
 <ul>
 <li>구글 폼을 통한 신청 (링크 : <a href="https://forms.gle/et1VMcDm4LwKw4Ln6" target="_blank" rel="noopener noreferrer">https://forms.gle/et1VMcDm4LwKw4Ln6</a>)</li>
 <li>신청 기한 : ~ <strong>24. 05. 10 (금) 23:59</strong></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="대회-안내">대회 안내<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EB%8C%80%ED%9A%8C-%EC%95%88%EB%82%B4" class="hash-link" aria-label="Direct link to 대회 안내" title="Direct link to 대회 안내">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="대회-안내">대회 안내<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EB%8C%80%ED%9A%8C-%EC%95%88%EB%82%B4" class="hash-link" aria-label="Direct link to 대회 안내" title="Direct link to 대회 안내">​</a></h2>
 <ul>
 <li>본 대회는 14시 ~ 19시까지 총 5시간동안 진행되며, <strong>문제는 총 12개로 이루어져 있습니다.</strong>
 <ul>
 <li>앞의 4개 문제는 대회 운영진들이 의도한 가장 쉬운 문제들 4개 문제로 이루어져 있고, 나머지 문제들의 난이도 순서는 무작위입니다.</li>
 <li><strong>본 대회 동안 중도 퇴실을 제외하고 흡연 등을 이유로 건물 외부로 이탈하실 수 없습니다.</strong></li>
-<li>대회가 종료되기 1시간 전 스코어보드가 프리징됩니다. 스코어보드 프리징의 의미는 아래 <a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EC%8A%A4%EC%BD%94%EC%96%B4%EB%B3%B4%EB%93%9C-%ED%94%84%EB%A6%AC%EC%A7%95">기타정보-스코어보드 프리징</a> 섹션을 참조해주세요.</li>
+<li>대회가 종료되기 1시간 전 스코어보드가 프리징됩니다. 스코어보드 프리징의 의미는 아래 <a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EC%8A%A4%EC%BD%94%EC%96%B4%EB%B3%B4%EB%93%9C-%ED%94%84%EB%A6%AC%EC%A7%95">기타정보-스코어보드 프리징</a> 섹션을 참조해주세요.</li>
 </ul>
 </li>
 <li><strong>본인 확인을 위한 신분증(또는 학생증)을 지참해주세요.</strong></li>
@@ -78,13 +78,13 @@
 </ul>
 </li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="경시-규칙">경시 규칙<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EA%B2%BD%EC%8B%9C-%EA%B7%9C%EC%B9%99" class="hash-link" aria-label="Direct link to 경시 규칙" title="Direct link to 경시 규칙">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="경시-규칙">경시 규칙<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EA%B2%BD%EC%8B%9C-%EA%B7%9C%EC%B9%99" class="hash-link" aria-label="Direct link to 경시 규칙" title="Direct link to 경시 규칙">​</a></h2>
 <ul>
 <li><strong>다음과 같은 행위를 엄격히 금지합니다.</strong>
 <ul>
 <li><strong>개인 컴퓨터에 저장된 미리 작성한 코드 이용을 금지합니다.</strong>
 <ul>
-<li><strong>팀노트에 적어온 내용을 대회 시작 후 옮겨서 작성하는 것은 가능합니다. 팀노트의 의미는 아래 <a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%ED%8C%80%EB%85%B8%ED%8A%B8">기타정보-팀노트</a> 섹션을 참조해주세요.</strong></li>
+<li><strong>팀노트에 적어온 내용을 대회 시작 후 옮겨서 작성하는 것은 가능합니다. 팀노트의 의미는 아래 <a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%ED%8C%80%EB%85%B8%ED%8A%B8">기타정보-팀노트</a> 섹션을 참조해주세요.</strong></li>
 </ul>
 </li>
 <li><strong>문제지와 팀노트를 제외한 공책 등 기타 종이 사용을 금지합니다.</strong></li>
@@ -105,21 +105,21 @@
 </li>
 <li><strong>안내 사항 위반 시 수상 취소 및 향후 IUPC 대회 참가 금지 등의 불이익이 있을 수 있습니다.</strong></li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="기타-정보">기타 정보<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EA%B8%B0%ED%83%80-%EC%A0%95%EB%B3%B4" class="hash-link" aria-label="Direct link to 기타 정보" title="Direct link to 기타 정보">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="팀노트">팀노트<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%ED%8C%80%EB%85%B8%ED%8A%B8" class="hash-link" aria-label="Direct link to 팀노트" title="Direct link to 팀노트">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="기타-정보">기타 정보<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EA%B8%B0%ED%83%80-%EC%A0%95%EB%B3%B4" class="hash-link" aria-label="Direct link to 기타 정보" title="Direct link to 기타 정보">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="팀노트">팀노트<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%ED%8C%80%EB%85%B8%ED%8A%B8" class="hash-link" aria-label="Direct link to 팀노트" title="Direct link to 팀노트">​</a></h3>
 <ul>
 <li>팀노트란 대회 중 본인이 참조할 수 있는 일종의 Cheat Sheet입니다. 특정한 알고리즘의 설명이나 그것을 구현한 코드, 아니면 단순히 문제 해결에 도움이 될 만한 내용을 적어와도 좋습니다.</li>
 <li>IUPC는 팀노트를 허용하는 대회입니다. <strong>A4용지 종이에 작성된 형태로 단면 25장까지 허용합니다.</strong></li>
 <li>대회 중에도 팀노트에 자유롭게 필기할 수 있습니다.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="스코어보드-프리징">스코어보드 프리징<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EC%8A%A4%EC%BD%94%EC%96%B4%EB%B3%B4%EB%93%9C-%ED%94%84%EB%A6%AC%EC%A7%95" class="hash-link" aria-label="Direct link to 스코어보드 프리징" title="Direct link to 스코어보드 프리징">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="스코어보드-프리징">스코어보드 프리징<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EC%8A%A4%EC%BD%94%EC%96%B4%EB%B3%B4%EB%93%9C-%ED%94%84%EB%A6%AC%EC%A7%95" class="hash-link" aria-label="Direct link to 스코어보드 프리징" title="Direct link to 스코어보드 프리징">​</a></h3>
 <ul>
 <li>대회동안 참가자들은 대회 플랫폼의 메뉴나 앞의 스크린을 통해 실시간 제출에 대한 스코어보드를 보실 수 있습니다.</li>
 <li>단, 대회가 끝나기 1시간 전부터 일어난 제출에 대해서는 그 제출 결과를, 제출한 개인을 제외하고 공개적으로 알려주지 않습니다. 이를 <strong>스코어보드 프리징</strong>이라고 합니다.</li>
 <li>이는 참가자들이 마지막까지 최선을 다하게 하는 것을 목적으로 합니다. 스코어보드가 프리징되어 있는 동안 일어난 제출로 순위가 뒤바뀔 수 있으니 끝까지 최선을 다해주세요.</li>
 <li>대회가 끝나고 문제를 풀이한 뒤, 스코어보드 프리징을 해제하고 최종 순위를 결정합니다.</li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="순위-선정-기준">순위 선정 기준<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#%EC%88%9C%EC%9C%84-%EC%84%A0%EC%A0%95-%EA%B8%B0%EC%A4%80" class="hash-link" aria-label="Direct link to 순위 선정 기준" title="Direct link to 순위 선정 기준">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="순위-선정-기준">순위 선정 기준<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#%EC%88%9C%EC%9C%84-%EC%84%A0%EC%A0%95-%EA%B8%B0%EC%A4%80" class="hash-link" aria-label="Direct link to 순위 선정 기준" title="Direct link to 순위 선정 기준">​</a></h3>
 <ul>
 <li>순위는 다음과 같은 우선순위를 통해 결정됩니다.<!-- -->
 <ol>
@@ -140,7 +140,7 @@
 </ul>
 </li>
 </ul>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="faq">FAQ<a href="https://inhactp.github.io/blog/2024/05/06/iupc2024#faq" class="hash-link" aria-label="Direct link to FAQ" title="Direct link to FAQ">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="faq">FAQ<a href="https://inhactp.github.io/ctp-homepage/blog/2024/05/06/iupc2024#faq" class="hash-link" aria-label="Direct link to FAQ" title="Direct link to FAQ">​</a></h3>
 <ul>
 <li>
 <p>대회 예비소집은 무엇을 하나요?</p>
