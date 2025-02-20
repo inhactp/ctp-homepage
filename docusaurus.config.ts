@@ -15,13 +15,14 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   // baseUrl: "/",
   url: "https://inhactp.github.io",
-  baseUrl: "/",
+  baseUrl: "/ctp-homepage/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  projectName: "inhactp.github.io",
+  projectName: "ctp-homepage",
   organizationName: "inhactp",
   trailingSlash: false,
+  deploymentBranch: "gh-pages",
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
