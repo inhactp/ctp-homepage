@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/haengsa/iupc" className={styles.link}>
             인하대학교 프로그래밍 경진대회(IUPC)
           </a>
         </b>
@@ -54,7 +54,7 @@ const FeatureList: FeatureItem[] = [
       <>
         홈커밍데이인{" "}
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/haengsa/cbam" className={styles.link}>
             CTP의 밤
           </a>
         </b>
@@ -69,7 +69,7 @@ const FeatureList: FeatureItem[] = [
       <>
         알고리즘 공부 독려를 위해{" "}
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/haengsa/ccc" className={styles.link}>
             CCC
           </a>
         </b>
@@ -86,19 +86,19 @@ const Activities: FeatureItem[] = [
     description: (
       <>
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/activities/gichoban" className={styles.link}>
             기초반
           </a>
         </b>
         ,&nbsp;
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/activities/coteban" className={styles.link}>
             코테반
           </a>
         </b>
         ,&nbsp;
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/activities/daehwaeban" className={styles.link}>
             대회반
           </a>
         </b>{" "}
@@ -113,7 +113,7 @@ const Activities: FeatureItem[] = [
       <>
         주마다 랜덤 문제를 골라 푸는{" "}
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/activities/mogakco" className={styles.link}>
             모각코
           </a>
         </b>{" "}
@@ -127,7 +127,7 @@ const Activities: FeatureItem[] = [
     description: (
       <>
         <b>
-          <a href="./docs/intro" className={styles.link}>
+          <a href="./docs/handbook/sangsi/jobyeol" className={styles.link}>
             조별 활동
           </a>
         </b>{" "}
@@ -141,41 +141,17 @@ const OtherActivities: FeatureItem[] = [
   {
     title: "ICPC Asia Seoul Regional Contest (전국 대학생 프로그래밍 경진대회)",
     img: () => <img src={require("@site/static/img/lending/icpc.jpg").default} alt="ICPC" />,
-    description: (
-      <>
-        2024{" "}
-        <b>
-          <a href="./docs/intro">ICPC Asia Seoul Regional Contest</a>
-        </b>{" "}
-        본선 진출
-      </>
-    ),
+    description: <>2024 ICPC Asia Seoul Regional Contest 본선 진출</>,
   },
   {
     title: "UCPC",
     img: () => <img src={require("@site/static/img/lending/ucpc.jpg").default} alt="UCPC" />,
-    description: (
-      <>
-        2024{" "}
-        <b>
-          <a href="./docs/intro">UCPC</a>
-        </b>{" "}
-        본선 진출
-      </>
-    ),
+    description: <>2024 UCPC 본선 진출</>,
   },
   {
     title: "shake!",
     img: () => <img src={require("@site/static/img/lending/shake.jpg").default} alt="shake!" />,
-    description: (
-      <>
-        2024{" "}
-        <b>
-          <a href="./docs/intro">shake!</a>
-        </b>{" "}
-        5등상
-      </>
-    ),
+    description: <>2024 shake! 5등상</>,
   },
 ];
 

@@ -1,8 +1,8 @@
 {
-  "label": "정기 / 비정기 활동",
+  "label": "정기 활동",
   "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "정기 활동과 비정기 활동을 소개합니다."
+    "description": "정기 활동을 소개합니다."
   }
 }
