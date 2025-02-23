@@ -163,7 +163,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`인하대학교 CTP`}
-      description="CTP(Challenge The Programming)는 여러 프로그래밍 대회를 준비하며 자료구조 및 알고리즘을 연구하는 학술 소모임입니다."
+      description="CTP(Challenge The Programming)는 자료구조 및 다양한 알고리즘을 학습, 연구하거나 여러 프로그래밍 대회를 준비하는 학술 소모임입니다."
     >
       <HomepageHeader />
       <main>
@@ -174,8 +174,8 @@ export default function Home(): ReactNode {
             </Heading>
           </div>
           <div className="text--center">
-            CTP(Challenge The Programming)는 여러 프로그래밍 대회를 준비하며 자료구조 및 알고리즘을 연구하는 학술
-            소모임입니다.
+            CTP(Challenge The Programming)는 자료구조 및 다양한 알고리즘을 학습, 연구하거나 여러 프로그래밍 대회를
+            준비하는 학술 소모임입니다.
             <br />
             <br />
           </div>
