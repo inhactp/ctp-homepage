@@ -6,7 +6,7 @@
         </rect>
     </clipPath>
     <clipPath id="clip2">
-        <rect x="0" y="1546.5685" width="3840" height="180" fill="#342d2b"/>
+        <rect x="0" y="1500" width="3840" height="250" fill="#342d2b"/>
     </clipPath>
     <path fill="#342d2b" clip-path="url(#clip1)">
         <animate attributeName="d" values="M 1720,799.99995 V 1360 h 120 l 0.798,-240.0001 H 2120 V 799.99995 Z m 120,120 h 160 v 80 h -160 z m -640,-120 h 440 v 120 H 1480 V 1360 H 1360 V 919.99995 h -160 z m -480,10e-6 h 400 v 120 H 840 V 1240 h 280 v 120 H 720 Z;M 2740,799.99995 V 1360 h 120 l 0.798,-240.0001 H 3140 V 799.99995 Z m 120,120 h 160 v 80 h -160 z m -640,-120 h 440 v 120 H 2500 V 1360 H 2380 V 919.99995 h -160 z m -480,10e-6 h 400 v 120 H 1860 V 1240 h 280 v 120 h -400 z;m 2740,636.85929 v 560.00001 h 120 l 0.798,-240.00001 H 3140 v -320 z m 120,120 h 160 v 80 h -160 z m -640,-120 h 440 v 120 H 2500 V 1196.8593 H 2380 V 756.85929 h -160 z m -480,10e-6 h 400 v 120 h -280 v 320 h 280 v 120 h -400 z;" calcMode="spline" keySplines="0.5 0 0.5 1;0.5 0 0.5 1;" dur="2s" fill="freeze"/>
