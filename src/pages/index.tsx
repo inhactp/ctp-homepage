@@ -23,8 +23,11 @@ function HomepageHeader() {
         <div className={styles.svg} dangerouslySetInnerHTML={{ __html: rawSvg }} />
 
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/handbook/intro">
+          <Link className="button custom-button button--secondary button--lg" to="/docs/handbook/intro">
             CTP 핸드북 페이지로
+          </Link>
+          <Link className="button button--secondary custom-button rainbow-button button--lg" to="/recruit/2025">
+            25-1 CTP 신규모집 페이지로
           </Link>
         </div>
       </div>

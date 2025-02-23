@@ -7,11 +7,12 @@
 /* You can override the default Infima variables here. */
 
 /* Pretendard 폰트 로드 */
-@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
-
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+@import url("https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap");
 
 :root {
-  --ifm-font-family-base: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --ifm-font-family-base: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    sans-serif;
   --ifm-color-primary: #7f5cac;
   --ifm-color-primary-dark: #4b2978;
   --ifm-color-primary-darker: #472771;
@@ -20,12 +21,12 @@
   --ifm-color-primary-lighter: #b589ef;
   --ifm-color-primary-lightest: #af7fee;
   --ifm-code-font-size: 95%;
-  --ifm-color-background-image: conic-gradient(from 90deg at -10% 100%,#acb1bd 0deg,#acb1bd 90deg,#fff 1turn);
+  --ifm-color-background-image: conic-gradient(from 90deg at -10% 100%, #acb1bd 0deg, #acb1bd 90deg, #fff 1turn);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
+[data-theme="dark"] {
   --ifm-color-primary: #af7fee;
   --ifm-color-primary-dark: #9451eb;
   --ifm-color-primary-darker: #7329d5;
@@ -33,11 +34,55 @@
   --ifm-color-primary-light: #af7fee;
   --ifm-color-primary-lighter: #c4a6f4;
   --ifm-color-primary-lightest: #cfb9f1;
-  --ifm-color-background-image: conic-gradient(from 90deg at -10% 100%,#36393e 0deg,#36393e 90deg,#1b1d1f 1turn);
+  --ifm-color-background-image: conic-gradient(from 90deg at -10% 100%, #36393e 0deg, #36393e 90deg, #1b1d1f 1turn);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
 /* 전체 폰트 설정 */
 body {
   font-family: var(--ifm-font-family-base);
+}
+
+@keyframes rainbow {
+  0% {
+    background-color: #ffadad;
+  } /* 부드러운 빨강 */
+  14% {
+    background-color: #ffd6a5;
+  } /* 부드러운 주황 */
+  28% {
+    background-color: #fdffb6;
+  } /* 부드러운 노랑 */
+  42% {
+    background-color: #caffbf;
+  } /* 부드러운 연두 */
+  57% {
+    background-color: #9bf6ff;
+  } /* 부드러운 하늘 */
+  71% {
+    background-color: #a0c4ff;
+  } /* 부드러운 파랑 */
+  85% {
+    background-color: #bdb2ff;
+  } /* 부드러운 보라 */
+  100% {
+    background-color: #ffadad;
+  } /* 다시 부드러운 빨강 */
+}
+
+.rainbow-button {
+  background-color: #ffadad;
+  animation: rainbow 3s linear infinite;
+}
+
+.custom-button {
+  margin: 0 10px;
+  cursor: pointer;
+  border: none;
+  transition: 0.3s ease-in-out;
+}
+
+.custom-button:hover {
+  filter: brightness(1.1);
+  transform: scale(1.05);
 }
