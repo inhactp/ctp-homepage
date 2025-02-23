@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 디스코드 서버
 
-![alt](../../img/discord.png)
+![](../../img/discord.png)
 
 디스코드 서버를 동아리방처럼 사용합니다.
 

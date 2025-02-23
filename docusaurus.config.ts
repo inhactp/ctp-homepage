@@ -68,11 +68,11 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/ctp_with_text_whitebg.png",
     navbar: {
       title: "인하대학교 CTP",
       logo: {
-        alt: "My Site Logo",
+        alt: "CTP 로고",
         src: "img/logo.svg",
       },
       items: [

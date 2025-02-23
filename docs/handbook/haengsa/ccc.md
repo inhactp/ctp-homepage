@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # CCC
 
-![alt](../../../static/img/lending/ccc.png)
+![](../../../static/img/lending/ccc.png)
 
 CCC는 여름방학 시기 알고리즘 공부 독려를 위해, 참여에 부담이 되지 않도록 선정된 문제들을 1주라는 긴 기간동안 백준에서 평소처럼 공부하고 푸시면서 부원 여러분들이 상품을 받아가실 수 있도록 동아리 내부에서 준비한 작은 대회입니다.
 

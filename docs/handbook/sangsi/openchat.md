@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # 카카오톡 오픈채팅 질문방
 
-![alt](../../../static/img/lending/chat.png)
+![](../../../static/img/lending/chat.png)
+
+CTP에서 운영하는 알고리즘 오픈채팅 질문방입니다.
 
 - https://open.kakao.com/o/gtiFpCDf
 - 인하대학교 재학생 누구나 참여할 수 있는 "CTP 알고리즘 질문방" 오픈채팅방

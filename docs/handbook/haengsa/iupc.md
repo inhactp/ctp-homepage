@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # IUPC (인하대학교 프로그래밍 경진대회)
 
-![alt](../../../static/img/lending/iupc.jpg)
+![](../../../static/img/lending/iupc.jpg)
 
 IUPC(Inha University Programming Contest, 인하대학교 프로그래밍 경진대회)는 CTP에서 주관하는 교내 PS 대회입니다.  
 2015년부터 꾸준히 진행해오고 있고, 보통 5월 중에 개최합니다.  

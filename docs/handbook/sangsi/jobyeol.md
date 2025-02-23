@@ -4,7 +4,9 @@ sidebar_position: 4
 
 # 조별활동
 
-![alt](../../../static/img/lending/jo.png)
+![](../../../static/img/lending/jo.png)
+
+자율적으로 참여할 수 있는 조별활동을 운영합니다.
 
 - 희망자 한정 비정기 활동
 - 3-6명 한 조

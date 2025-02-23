@@ -158,17 +158,21 @@ const OtherActivities: FeatureItem[] = [
 export default function Home(): ReactNode {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`인하대학교 CTP`} description="Description will go into a meta tag in <head />">
+    <Layout
+      title={`인하대학교 CTP`}
+      description="CTP(Challenge The Programming)는 여러 프로그래밍 대회를 준비하며 자료구조 및 알고리즘을 연구하는 학술 소모임입니다."
+    >
       <HomepageHeader />
       <main>
         <div className={styles.bg}>
           <div className={clsx(styles.lowTitle, "container")}>
             <Heading as="h1" className="hero__title">
-              씨티피가몬가요
+              CTP가 무엇인가요?
             </Heading>
           </div>
           <div className="text--center">
-            씨티피는백준에서문제를푸는일을하는소모임임니다
+            CTP(Challenge The Programming)는 여러 프로그래밍 대회를 준비하며 자료구조 및 알고리즘을 연구하는 학술
+            소모임입니다.
             <br />
             <br />
           </div>

@@ -4,7 +4,9 @@ sidebar_position: 2
 
 # 코테반
 
-![alt](../../../static/img/lending/ctb.jpg)
+![](../../../static/img/lending/ctb.jpg)
+
+코테반은 코딩 테스트를 준비하시려는 분을 위한 스터디입니다.
 
 - 언제: 주 1회 19:00 ~ 21:00 (요일은 수요조사 후 결정)
 - 어디서: 하이테크관 강의실 (강의실 번호는 매주 공지)
