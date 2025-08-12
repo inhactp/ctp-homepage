@@ -5,10 +5,18 @@ ctp:
   image_url: https://github.com/inha-ctp.png
 
 firo:
-  name: Firo_SF
-  title: 24-2 CTP 회장
+  name: 최명근
+  title: 25-1 CTP 부회장, 24-2 CTP 회장
   url: https://www.acmicpc.net/user/cmgjol010
   image_url: https://github.com/FiroSF.png
   socials:
     github: FiroSF
     x: Firo_SF
+
+cicada1308:
+  name: 김형주
+  title: 25-1 CTP 회장
+  url: https://www.acmicpc.net/user/hjkim9911
+  image_url: https://github.com/Cicada3000.png
+  socials:
+    github: Cicada3000
