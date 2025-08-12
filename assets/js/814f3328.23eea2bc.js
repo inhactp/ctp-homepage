@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkctp_admin_docs=self.webpackChunkctp_admin_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"2024 IUPC","permalink":"/ctp-homepage/blog/2024/05/06/iupc2024","unlisted":false,"date":"2024-05-06T00:00:00.000Z"}]}')}}]);

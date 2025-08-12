@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkctp_admin_docs=self.webpackChunkctp_admin_docs||[]).push([[3814],{1389:e=>{e.exports=JSON.parse('{"tags":[{"label":"\uacf5\uc9c0","permalink":"/ctp-homepage/blog/tags/\uacf5\uc9c0","count":1},{"label":"iupc","permalink":"/ctp-homepage/blog/tags/iupc","count":1}]}')}}]);
