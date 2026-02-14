@@ -26,8 +26,8 @@ function HomepageHeader() {
           <Link className="button custom-button button--secondary button--lg" to="/docs/handbook/intro">
             CTP 핸드북 페이지로
           </Link>
-          <Link className="button button--secondary custom-button rainbow-button button--lg" to="/recruit/2025/2">
-            25-2 CTP 신규모집 페이지로
+          <Link className="button button--secondary custom-button rainbow-button button--lg" to="/recruit/2026/1">
+            26-1 CTP 신규모집 페이지로
           </Link>
         </div>
       </div>
