@@ -1,8 +1,8 @@
 ctp:
   name: CTP
   title: CTP 공지
-  url: https://github.com/inha-ctp
-  image_url: https://github.com/inha-ctp.png
+  url: https://github.com/inhactp
+  image_url: https://github.com/inhactp.png
 
 firo:
   name: 최명근
@@ -15,7 +15,7 @@ firo:
 
 cicada1308:
   name: 김형주
-  title: 25-1 CTP 회장
+  title: 2025 CTP 회장
   url: https://www.acmicpc.net/user/hjkim9911
   image_url: https://github.com/Cicada3000.png
   socials:
